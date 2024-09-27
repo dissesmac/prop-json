@@ -1,0 +1,296 @@
+[
+  {
+    "status": [
+      { "title": "VERIFIED", "color": "#28a745" }
+    ],
+    "type": "Apartment",
+    "delivery": "2023",
+    "price": {
+      "amount": 2650000,
+      "currency": "AED",
+      "inclusive": true
+    },
+    "location": "Marina Tower, Dubai Marina",
+    "details": [
+      { "title": "Bedrooms", "value": "1", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "2", "image": "bathtub.fill" },
+      { "title": "Area", "value": "1,200 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "1 day ago",
+    "contact": {
+      "last_contacted": "29 Aug 2021",
+      "methods": [
+        { "method": "phone", "image": "phone.fill", "contacts": "+971567894321" },
+        { "method": "email", "image": "envelope.fill", "contacts": "info@example.com" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "NEW CONSTRUCTION", "color": "#17a2b8" }
+    ],
+    "type": "Penthouse",
+    "delivery": "2024",
+    "price": {
+      "amount": 5200000,
+      "currency": "AED",
+      "inclusive": false
+    },
+    "location": "Palm Jumeirah, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "4", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "5", "image": "bathtub.fill" },
+      { "title": "Area", "value": "4,000 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "2 weeks ago",
+    "contact": {
+      "last_contacted": "15 Sep 2021",
+      "methods": [
+        { "method": "phone", "image": "phone.fill", "contacts": "+971567812345" },
+        { "method": "whatsapp", "image": "message.fill", "contacts": "+971567812345" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg",
+      "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "VERIFIED", "color": "#28a745" },
+      { "title": "NEW CONSTRUCTION", "color": "#17a2b8" }
+    ],
+    "type": "Villa",
+    "delivery": "2025",
+    "price": {
+      "amount": 12000000,
+      "currency": "AED",
+      "inclusive": true
+    },
+    "location": "Emirates Hills, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "6", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "7", "image": "bathtub.fill" },
+      { "title": "Area", "value": "9,500 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "3 weeks ago",
+    "contact": {
+      "last_contacted": "5 Sep 2021",
+      "methods": [
+        { "method": "email", "image": "envelope.fill", "contacts": "luxury@example.com" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "LIVE VIEWING", "color": "#ffc107" }
+    ],
+    "type": "Studio",
+    "delivery": "2021",
+    "price": {
+      "amount": 950000,
+      "currency": "AED",
+      "inclusive": false
+    },
+    "location": "Business Bay, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "Studio", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "1", "image": "bathtub.fill" },
+      { "title": "Area", "value": "600 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "5 days ago",
+    "contact": {
+      "last_contacted": "22 Sep 2021",
+      "methods": [
+        { "method": "phone", "image": "phone.fill", "contacts": "+971557823456" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg",
+      "https://images.pexels.com/photos/271614/pexels-photo-271614.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "VERIFIED", "color": "#28a745" }
+    ],
+    "type": "Loft",
+    "delivery": "2022",
+    "price": {
+      "amount": 1800000,
+      "currency": "AED",
+      "inclusive": true
+    },
+    "location": "Jumeirah Beach Residence, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "2", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "3", "image": "bathtub.fill" },
+      { "title": "Area", "value": "1,800 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "4 days ago",
+    "contact": {
+      "last_contacted": "20 Sep 2021",
+      "methods": [
+        { "method": "email", "image": "envelope.fill", "contacts": "contact@example.com" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting-room.jpg",
+      "https://images.pexels.com/photos/358695/pexels-photo-358695.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "NEW CONSTRUCTION", "color": "#17a2b8" }
+    ],
+    "type": "Townhouse",
+    "delivery": "2024",
+    "price": {
+      "amount": 3500000,
+      "currency": "AED",
+      "inclusive": false
+    },
+    "location": "Al Furjan, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "3", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "4", "image": "bathtub.fill" },
+      { "title": "Area", "value": "2,200 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "1 month ago",
+    "contact": {
+      "last_contacted": "10 Sep 2021",
+      "methods": [
+        { "method": "phone", "image": "phone.fill", "contacts": "+971567812345" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg",
+      "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "LIVE VIEWING", "color": "#ffc107" }
+    ],
+    "type": "Duplex",
+    "delivery": "2021",
+    "price": {
+      "amount": 4300000,
+      "currency": "AED",
+      "inclusive": true
+    },
+    "location": "Dubai Hills Estate, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "3", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "3", "image": "bathtub.fill" },
+      { "title": "Area", "value": "2,500 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "6 days ago",
+    "contact": {
+      "last_contacted": "25 Sep 2021",
+      "methods": [
+        { "method": "whatsapp", "image": "message.fill", "contacts": "+971557823456" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/2251247/pexels-photo-2251247.jpeg",
+      "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "NEW CONSTRUCTION", "color": "#17a2b8" }
+    ],
+    "type": "Condo",
+    "delivery": "2023",
+    "price": {
+      "amount": 1450000,
+      "currency": "AED",
+      "inclusive": true
+    },
+    "location": "Dubai Marina, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "1", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "1", "image": "bathtub.fill" },
+      { "title": "Area", "value": "800 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "2 weeks ago",
+    "contact": {
+      "last_contacted": "5 Sep 2021",
+      "methods": [
+        { "method": "phone", "image": "phone.fill", "contacts": "+971568912345" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting-room.jpg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "VERIFIED", "color": "#28a745" }
+    ],
+    "type": "Penthouse",
+    "delivery": "2022",
+    "price": {
+      "amount": 6200000,
+      "currency": "AED",
+      "inclusive": false
+    },
+    "location": "Downtown Dubai, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "5", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "6", "image": "bathtub.fill" },
+      { "title": "Area", "value": "5,500 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "1 month ago",
+    "contact": {
+      "last_contacted": "30 Aug 2021",
+      "methods": [
+        { "method": "email", "image": "envelope.fill", "contacts": "penthouse@example.com" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/358695/pexels-photo-358695.jpeg",
+      "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg"
+    ]
+  },
+  {
+    "status": [
+      { "title": "NEW CONSTRUCTION", "color": "#17a2b8" }
+    ],
+    "type": "Apartment",
+    "delivery": "2023",
+    "price": {
+      "amount": 1850000,
+      "currency": "AED",
+      "inclusive": true
+    },
+    "location": "The Greens, Dubai",
+    "details": [
+      { "title": "Bedrooms", "value": "2", "image": "bed.double.fill" },
+      { "title": "Bathrooms", "value": "2", "image": "bathtub.fill" },
+      { "title": "Area", "value": "1,100 sqft", "image": "ruler.fill" }
+    ],
+    "published_date": "3 weeks ago",
+    "contact": {
+      "last_contacted": "12 Sep 2021",
+      "methods": [
+        { "method": "phone", "image": "phone.fill", "contacts": "+971558912345" },
+        { "method": "whatsapp", "image": "message.fill", "contacts": "+971558912345" }
+      ]
+    },
+    "image_url": [
+      "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting-room.jpg",
+      "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"
+    ]
+  }
+]
